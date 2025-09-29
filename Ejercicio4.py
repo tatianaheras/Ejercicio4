@@ -12,3 +12,4 @@ while True:
             print(n, "Tiene tres dígitos:  ")
     break
     #mi primer repositorio
+    #cambio realizado
