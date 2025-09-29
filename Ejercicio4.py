@@ -11,5 +11,4 @@ while True:
         else:
             print(n, "Tiene tres dígitos:  ")
     break
-    #mi primer repositorio
-    #mi primera rama
+    #resolucion de
