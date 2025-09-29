@@ -9,5 +9,6 @@ while True:
         elif(n<100): 
             print( "EL número " ,n, " ingresado tiene dos dígitos")
         else:
-            print(n, "Tiene tres dígitos ")
+            print(n, "Tiene tres dígitos:  ")
     break
+    #mi primer repositorio
