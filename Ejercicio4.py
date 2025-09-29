@@ -11,4 +11,5 @@ while True:
         else:
             print(n, "Tiene tres dígitos:  ")
     break
-    #resolucion de
+
+    #mi primer repositorio conflicto
